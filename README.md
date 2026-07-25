@@ -143,7 +143,7 @@ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/senseai-research.git
+git clone https://github.com/Leomezjayson/senseai-research.git
 cd senseai-research
 
 # Create virtual environment
@@ -185,7 +185,7 @@ Dynamic Fusion (Ours) TBD TBD TBD
 
 Our African Road Dataset (ARD) will be released with the following features:
 
-· Location: [Your City/Country]
+· Location: [Accra/Ghana]
 · Size: 500+ hours of driving footage
 · Sensors: Video (1080p) + Audio (16kHz)
 · Annotations: Near-miss events, emergency vehicles, pedestrian crossings, honking patterns, potholes
@@ -221,11 +221,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @thesis{[YourLastName]2026,
-  author = {[Your Full Name]},
+  author = {Miguel Oppong Ligi},
   title = {Dynamic Audio-Visual Fusion for Proactive Collision Avoidance in Unstructured Traffic Environments},
-  school = {[Your University]},
+  school = {Ghana Communication Technology University},
   year = {2026},
-  address = {[Your City, Country]}
+  address = {[Accra, Ghana]}
 }
 ```
 
@@ -235,17 +235,17 @@ If you use this code in your research, please cite:
 
 · NVIDIA for open-sourcing Omniverse NuRec and 3D Gaussian Splatting
 · Meta AI for PyTorch and open-source models
-· [Your Supervisor's Name] for guidance
-· [Your University] for support
+· Mr. Edmund Tordan for guidance
+· Ghana Communication Technology University for support
 
 ---
 
 📬 Contact
 
-· Author: [Your Full Name]
-· Email: [Your Email]
+· Author: Miguel Oppong Ligi
+· Email: 
 · LinkedIn: [Your LinkedIn URL]
-· Twitter/X: [Your X Handle]
+· 
 
 ---
 
