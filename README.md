@@ -220,7 +220,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 If you use this code in your research, please cite:
 
 ```bibtex
-@thesis{[YourLastName]2026,
+@thesis{ligi]2026,
   author = {Miguel Oppong Ligi},
   title = {Dynamic Audio-Visual Fusion for Proactive Collision Avoidance in Unstructured Traffic Environments},
   school = {Ghana Communication Technology University},
@@ -233,7 +233,7 @@ If you use this code in your research, please cite:
 
 🙏 Acknowledgments
 
-· NVIDIA for open-sourcing Omniverse NuRec and 3D Gaussian Splatting
+NVIDIA for open-sourcing Omniverse NuRec and 3D Gaussian Splatting
 · Meta AI for PyTorch and open-source models
 · Mr. Edmund Tordan for guidance
 · Ghana Communication Technology University for support
@@ -242,9 +242,9 @@ If you use this code in your research, please cite:
 
 📬 Contact
 
-· Author: Miguel Oppong Ligi
-· Email: 
-· LinkedIn: [Your LinkedIn URL]
+Author: Miguel Oppong Ligi
+· Email: 1703240434@live.gctu.edu.gh
+· LinkedIn: https://www.linkedin.com/in/miguel-oppong-ligi-929b1125a/
 · 
 
 ---
