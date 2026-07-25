@@ -2,7 +2,7 @@
 
 ## 🌍 Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
@@ -12,7 +12,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 ## 📜 Our Standards
 
-Examples of behavior that contributes to a positive environment for our community include:
+Examples of behavior that contribute to a positive environment for our community include:
 
 - **Demonstrating empathy and kindness** toward other people
 - **Being respectful** of differing opinions, viewpoints, and experiences
@@ -95,10 +95,10 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ## 📧 Reporting Guidelines
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting the project maintainer:
+If you experience or witness unacceptable behavior or have any other concerns, please report it by contacting the project maintainer:
 
-- **Name:** [Your Full Name]
-- **Email:** [Your University Email]
+- **Name:** Miguel Oppong Ligi
+- **Email:** 1703240434@live.gctu.edu.gh
 - **Purpose:** Code of Conduct reporting (confidential)
 
 All complaints will be reviewed and investigated promptly and fairly.
