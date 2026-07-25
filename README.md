@@ -239,7 +239,17 @@ NVIDIA for open-sourcing Omniverse NuRec and 3D Gaussian Splatting
 · Ghana Communication Technology University for support
 
 ---
+## 🌍 Inclusivity Statement
 
+We are committed to building a community that reflects the diversity of Africa and the world. We welcome:
+- **Researchers** from all academic levels (undergraduate to professor)
+- **Practitioners** from industry (engineers, data scientists, product managers)
+- **Community members** (drivers, fleet operators, policymakers)
+- **Students** from all backgrounds and disciplines
+
+**Language Support:** Documentation is in English, but we welcome translations and multilingual contributions. If you can help translate into French, Swahili, Yoruba, Hausa, Arabic, or other African languages, please reach out!
+
+---
 📬 Contact
 
 Author: Miguel Oppong Ligi
