@@ -45,7 +45,7 @@ The following components are released under the **MIT License** and are freely a
 
 ## 🔒 Proprietary Components (All Rights Reserved)
 
-The following components are **NOT** open-sourced and remain the exclusive intellectual property of [Your Full Name] / SenseAI:
+The following components are **NOT** open-sourced and remain the exclusive intellectual property of Miguel Oppong Ligi / SenseAI:
 
 | Component | What It Includes | Why It's Protected |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ Our African Road Dataset (ARD) is **proprietary** and **not publicly available**
 If you use the open-source code or reference this research in your work, please cite:
 
 ```bibtex
-@thesis{[YourLastName]2026,
+@thesis{ligi 2026,
   author = {Miguel Oppong Ligi},
   title = {Dynamic Audio-Visual Fusion for Proactive Collision Avoidance in Unstructured Traffic Environments},
   school = {Ghana Communication Technology University},
@@ -96,6 +96,9 @@ If you use the open-source code or reference this research in your work, please 
   address = {Accra, Ghana},
   url = https://github.com/Leomezjayson/Audio-Visual-Fusion-African-Roads/
 }
+
+---
+
 🤝 Contributing
 
 We welcome contributions to the open-source components of this repository. By contributing, you agree that:
@@ -119,9 +122,9 @@ The laws of Ghana govern this notice and the intellectual property described her
 For any questions regarding licensing, usage rights, or partnership opportunities:
 
 · Name: Miguel Oppong Ligi
-· Email: [Your University Email]
-· LinkedIn: [Your LinkedIn URL]
-· GitHub: [Your GitHub Profile]
+· Email: 1703240434@live.gctu.edu.gh
+· LinkedIn: https://www.linkedin.com/in/miguel-oppong-ligi-929b1125a/
+· GitHub: https://github.com/Leomezjayson/
 
 ---
 
