@@ -19,13 +19,13 @@ This repository contains the research code for my undergraduate thesis:
 
 **The Problem:** Existing autonomous vehicle perception systems (trained on Western datasets like nuScenes and Waymo) fail in African road conditions characterized by:
 - Unpredictable pedestrian and motorcycle behavior
-- Obstructed visibility (dust, rain, night-time)
+- Obstructed visibility (dust, rain, nighttime)
 - Chaotic lane discipline
 - High ambient noise
 
 **Our Hypothesis:** Fusing vision with **real-time audio cues** (emergency sirens, tire screeches, breaking glass, honk patterns) can improve hazard detection accuracy in low-visibility scenarios by over 15%.
 
-**Key Contribution:** We propose a novel lightweight fusion mechanism that dynamically increases audio-weighting when visual confidence drops below a learned threshold.
+**Key Contribution:** We propose a novel, lightweight fusion mechanism that dynamically increases audio weighting when visual confidence falls below a learned threshold.
 
 ---
 
@@ -194,6 +194,15 @@ Our African Road Dataset (ARD) will be released with the following features:
 ⚠️ Note: The full dataset is proprietary to protect our commercial roadmap. A small sample dataset (5 hours) will be released for reproducibility purposes upon thesis submission.
 
 ---
+
+## 🏗️ Technical Architecture (Post-NVIDIA Integration)
+
+This project leverages NVIDIA's open Physical AI ecosystem to accelerate development:
+
+- **Foundation Model (The Brain)**: We fine-tune **NVIDIA Cosmos 3 Nano (16B)** using LoRA. It handles video-audio fusion and scene reasoning.
+- **Data Engine (The Simulator)**: We use **NVIDIA Omniverse NuRec + 3D Gaussian Splatting** to reconstruct real African roads into photorealistic 3D scenes. This generates synthetic training data, reducing real-world driving miles by 90%.
+- **Deployment Target**: Cosmos 3 runs on edge (NVIDIA Jetson Orin) for initial pilots. 
+- **Future Commercialization**: We will distill Cosmos 3's knowledge into a proprietary, ultra-lightweight model (written from scratch) to reduce hardware costs for mass deployment.
 
 🤝 Contributing
 
